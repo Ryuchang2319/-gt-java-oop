@@ -1,0 +1,9 @@
+package problem1;
+
+public class problem1_1{
+
+    public static void main(String[] args) {
+        System.out.println("山田太郎");
+
+    }
+}
